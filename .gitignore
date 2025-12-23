@@ -1,0 +1,7 @@
+__pycache__/
+*.csv
+*.zip
+*.h5
+*.ckpt
+.env
+data/
